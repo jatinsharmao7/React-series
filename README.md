@@ -57,17 +57,3 @@ This repo contains all the projects, practice code, and experiments I’m buildi
 
 ---
 
-## 🖥️ Setup Instructions
-
-```bash
-# Clone this repository
-git clone https://github.com/<your-username>/<repo-name>.git
-
-# Navigate to project folder
-cd <repo-name>
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
